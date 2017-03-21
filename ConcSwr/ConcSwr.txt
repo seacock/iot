@@ -1,0 +1,2 @@
+Similar to FlockE. Writer is thread started by timer (400 times). Readers are 5000 threads. Writer output is coloured to highlight
+collisions with readers. This ends the simulation: it should be enough good.
